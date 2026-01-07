@@ -2,6 +2,7 @@
 ​A comprehensive, console-based collection of interactive logic puzzles and numerical utilities written in C. This project is designed as a first-year academic project for building foundational algorithmic logic.
 
 ​✨ Project Overview
+
 ​This suite provides an interactive platform for users to test their mental math, logical reasoning, and pattern-recognition skills. Managed through an efficient command-line interface, it features multiple modules ranging from number theory checks to a playable 15-Puzzle.
 
 ​🎯 Key Features
