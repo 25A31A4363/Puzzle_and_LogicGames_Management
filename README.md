@@ -64,12 +64,15 @@
 ​🚀 How to Run the Project
 ​Step 1: Open Terminal / Command Prompt
 Locate your project files using your operating system's terminal (Command Prompt, PowerShell, or Terminal).
+
 ​Step 2: Navigate to the Project Folder
 Change your directory to the location where the project is saved.
 cd path_to_puzzle_folder
+
 ​Step 3: 🛠️ Compile the Program
 Use a C compiler (like GCC) to build the source code into an executable file named puzzle_suite.
 gcc puzzle_suite.c -o puzzle_suite
+
 ​Step 4: 🏃 Run the Program
 Execute the compiled file to launch the interactive menu-driven interface.
 
