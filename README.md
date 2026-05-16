@@ -1,6 +1,6 @@
 # 🧠 Logic Puzzle & Mathematical Utility Suite
 
-A comprehensive, console-based collection of interactive logic puzzles and numerical utilities written in C. Perfect for beginners learning C programming concepts while building a small, interactive project.
+A Console-based collection of interactive logic puzzles and numerical utilities written in C. Perfect for beginners learning C programming concepts while building a small, interactive project.
 
 ---
 
